@@ -22,7 +22,7 @@ Cualquier duda avisen.
 - Si quieren probar los endpoint, pueden usar los siguientes CURL's
 
 ### Nota 
-Para importarlo en postman van a "Importar" y literal pegan los curl de abajo y el endpoint se va a importar automáticamente.
+Para importarlo en postman van a "Importar" arriba a la izquierda y literal pegan los curl de abajo y el endpoint se va a generar automáticamente.
 
 ### Test de revisar comentarios
 ```code
