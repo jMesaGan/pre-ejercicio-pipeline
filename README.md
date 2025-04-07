@@ -10,7 +10,7 @@
 
 2. Ejecuta el proyecto:
    ```sh
-   npm run start
+   npm run prod
    ```
    
 ## Decisión de diseño
